@@ -7,14 +7,6 @@ const {defaultPage} = require('./controllers/defaultPageController');
 
 const http = require('http');
 
-
-
-
-
-
-
-
-
 const routes = {
     '/': homePage,
     '/catalog':catalogPage,
